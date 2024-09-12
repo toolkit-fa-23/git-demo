@@ -1,0 +1,6 @@
+Checking to see if my name updates.
+It worked!!
+I am adding text here, so it needs to be updated.
+I am still struggling to get this to update on github.
+So it doesn't let me commit. I keeps telling me "nothing to commit" Your branch is up to date.
+But the txt file doesn't update. The text I type here isn't in the file on github.
