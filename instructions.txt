@@ -1,0 +1,8 @@
+1. Create a new .txt file titled yourname.txt
+2. Write something in that text file
+3. Save
+4. Stage your changes
+5. Make more changes
+6. Stage them again
+7. Create a commit with a message
+8. Push your changes
