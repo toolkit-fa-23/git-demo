@@ -1,5 +1,5 @@
-1. Create a new .txt file titled yourname.txt
-2. Write something in that text file
+1. Create a new .txt file titled group-something.txt
+2. Write all your names in that txt file
 3. Save
 4. Stage your changes
 5. Make more changes
