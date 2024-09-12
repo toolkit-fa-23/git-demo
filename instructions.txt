@@ -1,8 +1,7 @@
 1. Create a new .txt file titled group-something.txt
 2. Write all your names in that txt file
 3. Save
-4. Stage your changes
-5. Make more changes
-6. Stage them again
-7. Create a commit with a message
-8. Push your changes
+4. Stash your changes (git stash)
+5. Pull the latest from the branch (git pull)
+6. Merge your local changes into the latest code (git stash apply)
+7. Add, commit and push your changes (git add, git commit, git push)
